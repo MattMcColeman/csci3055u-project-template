@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SurveyQuestionnaire</string>
+    <string name="Welcome">Click below to answer a 5 question survey.</string>
+    <string name="ContinueBtn1">Continue</string>
+    <string name="AnswerNoBtn1">No</string>
+    <string name="AnswerYesBtn1">YES</string>
+    <string-array name="Questions">
+        <item>Do you want more study space on campus?</item>
+        <item>Does the school provide enough Diners?</item>
+        <item>Is the teaching staff at UOIT qualified?</item>
+        <item>Would you recommend a friend to attend UOIT?</item>
+        <item>Would you donate to the school as an alumni?</item>
+    </string-array>
+</resources>
