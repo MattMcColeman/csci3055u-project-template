@@ -28,6 +28,7 @@ fun printSum(a: Int, b: Int): Unit {
 Kotlin can be used in multiple IDE's such as Android Studio, IntelliJ Idea and Eclipse. Kotlin can also be run from the command line by downloading the standalone compiler. The following commands compile then excute an example.kt file. 
 $ kotlinc example.kt
 $ kotlin exampleKt
+One could also run a REPL by opening the terminal and using the command kotlinc-jvm. Kotlin is also used for scripts when saved with the extension ".kts". 
 
 > _Describe the compiler or interpreter needed_.
 
