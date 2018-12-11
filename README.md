@@ -59,20 +59,35 @@ document_.
 
 1. Kotlin is a good programming language because it supports both
 functional and procedural programming language. As procedural
-language 
-2.
-3.
+language it works just as well as Java.  
+2. Kotlin supports macros
+3. Kotlin supports closure as the values once set are not constant.
 4. Kotlin appears as a dynamic scoping language. When declaring
 variables one can use either val or var. the use of val creates
 an immutable value while using var allows for a mutable object.
 Var can be changed within subscopes or the scope it is declared in.
 Var or val declarations are also allowed in parrallel scopes.
-5. 
+5. Kotlin is clojure supportive since one can write code that is
+not modifiable by argument. 
 6. Kotlin allows for dynamic typing as it does not require a
 specification at declaration, but rather attains the type when the 
 value with its type is assigned.
 7. Kotlin has many strengths since for the most part it can do
 everything Java, an industry standard, can do, yet in a more
-concise manner.
-
-
+concise manner. Kotlin is type-safe because it uses aggressive
+inference to determine the types of values of expressions if
+they were not clearly stated. Kotlin is easily used with android
+app development. Kotlin has an impressive data class feature which
+is easier to work with than Java classes for data. Kotlin has
+succinct and intuitive syntax. Kotlin is 100% interoperable with 
+Java which is beneficial when adding on to existing projects.
+Java is supported by a range of IDEs making it well adapted to
+as production environment. The code is also less buggy since bugs
+are detected at compile time. These attributes of kotlin make it a 
+good language, but there are some cons to the language. Kotlin in
+selecet scenarios performs slower than Java. Kotlin also had no
+namespaces. There is also no static modifier in kotlin. The 
+ability to convert Java code to Kotlin also does not work 100% of
+the time.
+	Though Kotlin has its pros and cons, I think kotlin to be great
+language and will come to fruition.
